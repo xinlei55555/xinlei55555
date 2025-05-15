@@ -1,6 +1,6 @@
 <h1 align="center"> 🐦‍🔥 Greetings! ╰(*°▽°*)╯ </h1>
 <p align="center"> 
-    I'm Xin Lei, a Computer Science Specialist and Molecular Genetics Major at the University of Toronto currently doing research at the intersection of healthcare and machine learning. 
+    I'm Xin Lei, a Computer Science Specialist and Molecular Genetics Major at the University of Toronto currently doing research at the intersection of healthcare and machine learning at Vector, MiData and UHN, while playing with big data at Amazon Web Services RDS.
 </p>
 
 <p align="center">
@@ -29,12 +29,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xinlei55555&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
----
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=xinlei55555&icon=0&color=0" alt="Visit Count">
-  </a>
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
