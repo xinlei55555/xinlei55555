@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/xin-lei-lin-024230217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://xinlei55555.github.io/"><img src="https://img.shields.io/badge/Website-228B22?style=for-the-badge&logo=kitsu&logoColor=white" alt="Website"></a>
-  <a href="https://xinlei55555.github.io/"><img src="https://img.shields.io/badge/Scholar-006CA5?style=for-the-badge&logo=google&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://scholar.google.ca/citations?user=wYPUSgoAAAAJ&hl=en"><img src="https://img.shields.io/badge/Scholar-DC143C?style=for-the-badge&logo=google&logoColor=white" alt="Google Scholar"></a>
 
 </p>
 
