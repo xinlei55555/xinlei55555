@@ -1,6 +1,6 @@
 <h1 align="center"> 🐦‍🔥 Greetings! ╰(*°▽°*)╯ </h1>
 <p align="center"> 
-    I'm Xin Lei, a Computer Science Specialist and Molecular Genetics Major at the University of Toronto currently doing research at the intersection of healthcare and machine learning at Vector, MiData and UHN, while playing with big data at Amazon Web Services RDS.
+    I'm Xin Lei, a Research Engineer at Ideogram. Concurrently, I am a Computer Science Specialist and Molecular Genetics Major at the University of Toronto, and previously did research at the intersection of healthcare and machine learning at Vector, MiData and UHN, while playing with big data at Amazon Web Services RDS.
 </p>
 
 <p align="center">
